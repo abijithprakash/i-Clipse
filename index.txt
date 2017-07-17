@@ -1,2 +1,0 @@
-1) File name auto create while generating
-2) Developer change - Logs while creating a file
